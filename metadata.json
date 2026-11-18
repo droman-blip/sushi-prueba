@@ -1,0 +1,6 @@
+{
+  "name": "Sushisom Tracker",
+  "description": "Control de rondas, contador de piezas comidas, ranking en vivo y división de cuenta para Sushisom.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
